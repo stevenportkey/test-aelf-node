@@ -175,14 +175,3 @@ aelf-command call 23bUkxVxEoYVPehtiBMuHPsLqbFd1jWcikszgPfFCBuM3FKyYM -e http://$
 aelf-command send 23bUkxVxEoYVPehtiBMuHPsLqbFd1jWcikszgPfFCBuM3FKyYM -e http://${IP}:8000 -a W1ptWN5n5mfdVvh3khTRm9KMJCAUdge9txNyVtyvZaYRYcqc1 -p admin123 SetCreateHolderEnabled
 ```
 
-AElf [Info]: Your wallet info is : 
-AElf [Info]: Mnemonic            : still select refuse multiply stand ranch apart pigeon claim game tube cousin 
-AElf [Info]: Private Key         : fcf829353dc6fde5aefcb2e615263da489c036cb7e82b436077b4cf2a10a060d 
-AElf [Info]: Public Key          : 04cb12746ca6211d1842b8022362dc4aa30fcd32a4d0357f7eb3568e7b753a00efa931300e5fa6c4e8fefc103da0c887110a1cdae1fae88e8e2bebebd39a14579e 
-AElf [Info]: Address             : Ngas16zZh4nt8ZKvQUxYEBGrYXwyP7h6tVameSFJrQ3xNdAW4 
-
-
-
-
-
-faf90be8ef7cff08665b37dc2709f7272f78a13022cb4432b7def70e868a71a1
