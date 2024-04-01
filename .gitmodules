@@ -1,0 +1,4 @@
+[submodule "AElf"]
+	path = AElf
+	url = git@github.com:AElfProject/AElf.git
+	branch = experiment/groth16
